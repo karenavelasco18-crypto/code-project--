@@ -70,8 +70,7 @@ footer{
     <p>Email: karenvillaflor@email.com</p>
 </section>
 
-<footer>
-    <p>© 2026 Karen Villaflor Portfolio</p>
+
 </footer>
 
 </body>
